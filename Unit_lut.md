@@ -1,16 +1,16 @@
 # Unit Look Up Table
 
-|unit_tag|Full Name|Chinese|
-|:----:|:----:|:----:|
-|aus_inf|||
-|bel_cav|||
-|bel_cha||阿登·查瑟尔营|
-|bel_inf|||
-|bra_inf|||
-|can_arm|||
-|can_inf|||
-|cro_inf|||
-|est_mil||爱沙尼亚民兵|
+|unit_tag|Full Name|Chinese|Appears as|出现于|
+|:----:|:----:|:----:|:----:|:----:|
+|aus_inf|||||
+|bel_cav|||||
+|bel_cha||阿登·查瑟尔营|||
+|bel_inf|||||
+|bra_inf|||||
+|can_arm|||||
+|can_inf|||||
+|cro_inf|||||
+|est_mil||爱沙尼亚民兵||森林兄弟、爱沙尼亚防卫联盟|
 |ff_arm|||
 |ff_inf|||
 |ff_mtn|||
