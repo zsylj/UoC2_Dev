@@ -1,5 +1,4 @@
-#Country Look Up Table
-
+# Country Look Up Table
 
 |Brief Prefix|Country Name|Official Country Name|Chinese|
 |:----:|:----:|:----:|:----:|
@@ -34,5 +33,3 @@
 |us|United States|The United States of America|美利坚合众国|
 |vf/vichy|Vichy France|État français|维希法国|
 |yug|Yugoslavia|Краљевина Југославија Kraljevina Jugoslavija|南斯拉夫王国|
-
-========================================================================
