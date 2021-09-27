@@ -1,7 +1,7 @@
 # Unit Look Up Table
 
-|unit_tag|Full Name<br>全称<br>|Appears in<br>出现于<br>|
-|:----:|:----:|:----:|
+|unit_tag|Full Name<br>全称<br>|Appears in<br>出现于<br>|Better Name<br>最佳名称<br>|
+|:----:|:----:|:----:|:----:|
 |aus_inf|||
 |bel_cav|||
 |bel_cha|Chasseurs Ardennais<br>阿登·查瑟尔营<br>||
