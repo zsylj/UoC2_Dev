@@ -4,7 +4,7 @@
 |:----:|:----:|:----:|:----:|
 |aus_inf||||
 |bel_cav||||
-|bel_cha|Chasseurs Ardennais<br>阿登·查瑟尔营<br>||阿登猎骑兵|
+|bel_cha|Chasseurs Ardennais<br>阿登·查瑟尔营<br>||比利时阿登猎骑兵|
 |bel_inf||||
 |bra_inf||||
 |can_arm||||
