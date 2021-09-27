@@ -1,22 +1,22 @@
 # Unit Look Up Table
 
-|unit_tag|Full Name<br>全称<br>|Appears in<br>出现于<br>|In game name|
-|:----:|:----:|:----:|:----:|:----:|
-|aus_inf|||||
-|bel_cav|||||
-|bel_cha|Chasseurs Ardennais<br>阿登·查瑟尔营<br>|||
-|bel_inf|||||
-|bra_inf|||||
-|can_arm|||||
-|can_inf|||||
-|cro_inf|||||
-|est_mil|Estonian Militia<br>爱沙尼亚民兵<br>|DLC2/|森林兄弟、爱沙尼亚防卫联盟|
+|unit_tag|Full Name<br>全称<br>|Appears in<br>出现于<br>|
+|:----:|:----:|:----:|
+|aus_inf|||
+|bel_cav|||
+|bel_cha|Chasseurs Ardennais<br>阿登·查瑟尔营<br>||
+|bel_inf|||
+|bra_inf|||
+|can_arm|||
+|can_inf|||
+|cro_inf|||
+|est_mil|Estonian Militia<br>爱沙尼亚民兵<br>|DLC2/|
 |ff_arm|||
 |ff_inf|||
 |ff_mtn|Free French Mountaineers<br>自由法国山地兵<br>|
 |fin_cav|||
 |fin_inf|||
-|fin_jag|Finnish Jäger<br>芬兰猎兵<br>|DLC2/Jatkosota||
+|fin_jag|Finnish Jäger<br>芬兰猎兵<br>|DLC2/Jatkosota|
 |fr_alp|French Alpine<br>法国山地部队<br>|
 |fr_arm|||
 |fr_cav|||
