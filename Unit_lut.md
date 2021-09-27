@@ -1,6 +1,6 @@
 # Unit Look Up Table
 
-|unit_tag|Full Name|Chinese|Appears in|In game name|
+|unit_tag|Full Name<br>全称<br>|Appears in<br>出现于<br>|In game name|
 |:----:|:----:|:----:|:----:|:----:|
 |aus_inf|||||
 |bel_cav|||||
