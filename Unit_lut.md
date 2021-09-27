@@ -28,23 +28,23 @@
 |fr_na|French North African Infantry<br>法国北非步兵<br>|||
 |ger_bod|German Bodenständige<br>德军静态师<br>|||
 |ger_cav||||
-|ger_fsjg|German Fallschirmjäger<br>德国空降猎兵<br>||国防军空军空降猎兵|
-|ger_geb|German Gebirgsjäger<br>德国山地猎兵<br>||国防军陆军山地猎兵|
+|ger_fsjg|German Fallschirmjäger<br>德国空降猎兵<br>||德国国防军空军空降猎兵|
+|ger_geb|German Gebirgsjäger<br>德国山地猎兵<br>||德国国防军陆军山地猎兵|
 |ger_grz|German Grenztruppen<br>德国边防军<br>|||
 |ger_inf||||
 |ger_jag|German Jäger<br>德国猎兵<br>|||
-|ger_lehr|German Training Unit<br>德国训练部队<br>||国防军陆军装甲教导部队|
+|ger_lehr|German Training Unit<br>德国训练部队<br>||德国国防军陆军装甲教导部队|
 |ger_lei|German Leichte<br>德国轻装步兵师<br>|||
-|ger_lft|German Luftlande<br>德国空军<br>|DLC1|国防军陆军空降兵|
-|ger_lwf|German Luftwaffe<br>德国空军<br>||国防军空军野战部队|
+|ger_lft|German Luftlande<br>德国空军<br>|DLC1|德国国防军陆军空降兵|
+|ger_lwf|German Luftwaffe<br>德国空军<br>||德国国防军空军野战部队|
 |ger_mot||||
 |ger_pol|German Police Unit<br>德国警察部队<br>|
 |ger_pz||||
 |ger_pz1||||
 |ger_pz2||||
-|ger_pzgr|German Panzergrenadier<br>德国装甲掷弹兵<br>||国防军陆军装甲掷弹兵|
+|ger_pzgr|German Panzergrenadier<br>德国装甲掷弹兵<br>||德国国防军陆军装甲掷弹兵|
 |ger_sich|German Security Unit<br>德国警卫队<br>|||
-|ger_vg|German Volksgrenadier<br>德国掷弹兵<br>||国防军陆军国民掷弹兵|
+|ger_vg|German Volksgrenadier<br>德国掷弹兵<br>||德国国防军陆军国民掷弹兵|
 |ger_wcav|||
 |ger_wfsjg|||
 |ger_winf|||
@@ -106,11 +106,11 @@
 |sov_wtank|||
 |spa_inf|||
 |ss_cav|||
-|ss_geb|SS Gebirgsjäger<br>党卫军山地猎兵<br>||武装党卫队山地猎兵|
+|ss_geb|SS Gebirgsjäger<br>党卫军山地猎兵<br>||纳粹武装党卫队山地猎兵|
 |ss_inf|||
 |ss_mot|||
 |ss_pz|||
-|ss_pzgr|SS Panzergrenadier<br>党卫军装甲掷弹兵师<br>||武装党卫队装甲掷弹兵|
+|ss_pzgr|SS Panzergrenadier<br>党卫军装甲掷弹兵师<br>||纳粹武装党卫队装甲掷弹兵|
 |ss_wcav|||
 |ss_winf|||
 |ss_wmot|||
