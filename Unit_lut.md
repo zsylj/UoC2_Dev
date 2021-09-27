@@ -16,7 +16,7 @@
 |ff_mtn|Free French Mountaineers|自由法国山地兵|
 |fin_cav|||
 |fin_inf|||
-|fin_jag|Finnish J\xE4ger|芬兰猎兵|DLC2/Jatkosota||
+|fin_jag|Finnish Jäger|芬兰猎兵|DLC2/Jatkosota||
 |fr_alp|French Alpine|法国山地部队|
 |fr_arm|||
 |fr_cav|||
@@ -29,10 +29,10 @@
 |ger_bod|German Bodenst\xE4ndige|德军静态师|
 |ger_cav|||
 |ger_fsjg|German Fallschirmj\xE4ger|德国空降猎兵|
-|ger_geb|German Gebirgsj\xE4ger|德国山地猎兵|
+|ger_geb|German Gebirgsjäger|德国山地猎兵|
 |ger_grz|German Grenztruppen|德国边防军|
 |ger_inf|||
-|ger_jag|German J\xE4ger|德国猎兵|
+|ger_jag|German Jäger|德国猎兵|
 |ger_lehr|German Training Unit|德国训练部队|
 |ger_lei|German Leichte|德国轻装步兵师|
 |ger_lft|German Luftlande|德国空军|
@@ -106,7 +106,7 @@
 |sov_wtank|||
 |spa_inf|||
 |ss_cav|||
-|ss_geb|SS Gebirgsj\xE4ger|党卫军山地猎兵|
+|ss_geb|SS Gebirgsjäger|党卫军山地猎兵|
 |ss_inf|||
 |ss_mot|||
 |ss_pz|||
