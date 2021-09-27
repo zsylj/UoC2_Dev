@@ -1,6 +1,6 @@
 # Unit Look Up Table
 
-|unit_tag|Full Name|Chinese|Appears as|出现于|
+|unit_tag|Full Name|Chinese|Appears in|In game name|
 |:----:|:----:|:----:|:----:|:----:|
 |aus_inf|||||
 |bel_cav|||||
@@ -10,13 +10,13 @@
 |can_arm|||||
 |can_inf|||||
 |cro_inf|||||
-|est_mil|Estonian Militia|爱沙尼亚民兵||森林兄弟、爱沙尼亚防卫联盟|
+|est_mil|Estonian Militia|爱沙尼亚民兵|DLC2/|森林兄弟、爱沙尼亚防卫联盟|
 |ff_arm|||
 |ff_inf|||
 |ff_mtn|Free French Mountaineers|自由法国山地兵|
 |fin_cav|||
 |fin_inf|||
-|fin_jag|Finnish J\xE4ger|芬兰猎兵|
+|fin_jag|Finnish J\xE4ger|芬兰猎兵|DLC2/Jatkosota||
 |fr_alp|French Alpine|法国山地部队|
 |fr_arm|||
 |fr_cav|||
