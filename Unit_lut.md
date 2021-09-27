@@ -73,11 +73,11 @@
 |pol_arm|||
 |pol_cav|||
 |pol_inf|||
-|pol_mtn|||
+|pol_mtn|Polish Mountain Division|波兰山地师|
 |rom_arm|||
 |rom_cav|||
 |rom_inf|||
-|rom_mtn|||
+|rom_mtn|Romanian Mountaineers|罗马尼亚山地矛兵|
 |rsi_inf|||
 |sa_arm|||
 |sov_ab|Soviet Airborne|苏联空降兵|
@@ -96,7 +96,7 @@
 |sov_mil|Soviet Militia|苏联民兵|
 |sov_mot|Soviet Motorized|苏联摩托化兵团|
 |sov_mrd|Soviet Motor Rifles|苏联摩托步枪兵|
-|sov_mtn|||
+|sov_mtn|Soviet Mountaineers|苏联山地兵|
 |sov_nvl|Soviet Naval Infantry|苏联海军步兵|
 |sov_tank|||
 |sov_wcav|||
@@ -122,7 +122,7 @@
 |swe_inf|||
 |sws_cav|||
 |sws_inf|||
-|sws_mtn|||
+|sws_mtn|Swiss Mountaineers|瑞士山地兵|
 |uk_ab|||
 |uk_arm|||
 |uk_home|British Home Guard|英国国民军|
@@ -131,8 +131,8 @@
 |us_arm|||
 |us_arm_cc|US Combat Command|美国作战司令部|
 |us_inf|||
-|us_mtn|||
+|us_mtn|US Mountaineers|美军山地兵|
 |vf_inf|||
 |yug_cav|||
 |yug_inf|||
-|yug_mtn|||
+|yug_mtn|Yugoslav Mountain Division|南斯拉夫山地师|
