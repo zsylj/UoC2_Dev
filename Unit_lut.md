@@ -17,7 +17,7 @@
 |fin_cav||||
 |fin_inf||||
 |fin_jag|Finnish Jäger<br>芬兰猎兵<br>|DLC2/Jatkosota|芬兰猎兵|
-|fr_alp|French Alpine<br>法国山地部队<br>||法国阿尔卑斯山地猎兵|
+|fr_alp|French Alpine<br>法国山地部队<br>||法国阿尔卑斯猎兵|
 |fr_arm||||
 |fr_cav||||
 |fr_col|French Colonial<br>法国殖民军<br>|||
