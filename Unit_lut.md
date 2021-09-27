@@ -10,7 +10,7 @@
 |can_arm||||
 |can_inf||||
 |cro_inf||||
-|est_mil|Estonian Militia<br>爱沙尼亚民兵<br>|DLC2/|爱沙尼亚地下武装力量|
+|est_mil|Estonian Militia<br>爱沙尼亚民兵<br>|DLC2/|爱沙尼亚地下武装力量？【存疑】<br>乡土卫队omakaitse属于防卫联盟但森林兄弟forest brother不属于任何组织<br>|
 |ff_arm||||
 |ff_inf||||
 |ff_mtn|Free French Mountaineers<br>自由法国山地兵<br>||自由法国山地部队|
@@ -22,7 +22,7 @@
 |fr_cav||||
 |fr_col|French Colonial<br>法国殖民军<br>|||
 |fr_dlm|French Armored (DLM)<br>法国装甲部队（轻装机械师）<br>|
-|fr_for|French Fortress<br>法国堡垒<br>||法国堡垒守备部队|
+|fr_for|French Fortress<br>法国堡垒<br>||法国堡垒守备部队？【存疑】|
 |fr_inf||||
 |fr_mot||||
 |fr_na|French North African Infantry<br>法国北非步兵<br>|||
