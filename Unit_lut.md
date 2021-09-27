@@ -26,7 +26,7 @@
 |fr_inf|||
 |fr_mot|||
 |fr_na|French North African Infantry|法国北非步兵|
-|ger_bod|German Bodenst\xE4ndige|德军静态师|
+|ger_bod|German Bodenständige|德军静态师|
 |ger_cav|||
 |ger_fsjg|German Fallschirmj\xE4ger|德国空降猎兵|
 |ger_geb|German Gebirgsjäger|德国山地猎兵|
