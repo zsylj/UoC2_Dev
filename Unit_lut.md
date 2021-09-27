@@ -35,8 +35,8 @@
 |ger_jag|German Jäger<br>德国猎兵<br>|||
 |ger_lehr|German Training Unit<br>德国训练部队<br>||国防军陆军装甲教导部队|
 |ger_lei|German Leichte<br>德国轻装步兵师<br>|||
-|ger_lft|German Luftlande<br>德国空军<br>||国防军空军野战部队|
-|ger_lwf|German Luftwaffe<br>德国空军<br>|||
+|ger_lft|German Luftlande<br>德国空军<br>|DLC1|国防军陆军空降兵|
+|ger_lwf|German Luftwaffe<br>德国空军<br>||国防军空军野战部队|
 |ger_mot||||
 |ger_pol|German Police Unit<br>德国警察部队<br>|
 |ger_pz||||
