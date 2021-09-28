@@ -60,8 +60,8 @@
 |hun_inf|Hungarian Infantry<br>匈牙利步兵<br>||Hungarian Infantry<br>匈牙利步兵<br>|
 |hun_mot|Hungarian Motorized<br>匈牙利机动化兵团<br>||Hungarian Motorized<br>匈牙利机动化兵团<br>|
 |ind_inf|Indian Infantry<br>印度步兵<br>||Indian Infantry<br>印度步兵<br>|
-|ita_allied|Italian Infantry<br>意大利步兵<br>|||
-|ita_alp|Italian Alpini<br>意大利山地部队<br>|||
+|ita_allied|Italian Infantry<br>意大利步兵<br>||Italian Infantry<br>意大利步兵<br>|
+|ita_alp|Italian Alpini<br>意大利山地部队<br>||Italian Alpini<br>意大利山地部队<br>|
 |ita_arm|Italian Armored<br>意大利装甲部队<br>||Italian Armored<br>意大利装甲部队<br>|
 |ita_cav|Italian Cavalry<br>意大利骑兵<br>||Italian Cavalry<br>意大利骑兵<br>|
 |ita_inf|Italian Infantry<br>意大利步兵<br>||Italian Infantry<br>意大利步兵<br>|
@@ -107,12 +107,12 @@
 |sov_wmrd||||
 |sov_wtank||||
 |spa_inf|Spanish Infantry<br>西班牙步兵<br>||Spanish Infantry<br>西班牙步兵<br>|
-|ss_cav|SS Cavalry<br>党卫军骑兵<br>||SS Cavalry<br>党卫队骑兵<br>|
-|ss_geb|SS Gebirgsjäger<br>党卫军山地猎兵<br>||SS Gebirgsjäger<br>党卫队山地猎兵<br|
-|ss_inf|SS Infantry<br>党卫军步兵<br>||SS Infantry<br>党卫队步兵<br>|
-|ss_mot|SS Motorized<br>党卫军机动化兵团<br>||SS Motorized<br>党卫队机动化兵团<br>|
-|ss_pz|SS Panzer<br>党卫军装甲部队<br>||SS Panzer<br>党卫队装甲部队<br>|
-|ss_pzgr|SS Panzergrenadier<br>党卫军装甲掷弹兵师<br>||SS Panzergrenadier<br>党卫队装甲掷弹兵<br>|
+|ss_cav|SS Cavalry<br>党卫军骑兵<br>||SS Cavalry<br>党卫军骑兵<br>|
+|ss_geb|SS Gebirgsjäger<br>党卫军山地猎兵<br>||SS Gebirgsjäger<br>党卫军山地猎兵<br|
+|ss_inf|SS Infantry<br>党卫军步兵<br>||SS Infantry<br>党卫军步兵<br>|
+|ss_mot|SS Motorized<br>党卫军机动化兵团<br>||SS Motorized<br>党卫军机动化兵团<br>|
+|ss_pz|SS Panzer<br>党卫军装甲部队<br>||SS Panzer<br>党卫军装甲部队<br>|
+|ss_pzgr|SS Panzergrenadier<br>党卫军装甲掷弹兵师<br>||SS Panzergrenadier<br>党卫军装甲掷弹兵<br>|
 |ss_wcav||||
 |ss_winf||||
 |ss_wmot||||
