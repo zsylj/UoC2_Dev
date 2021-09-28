@@ -30,16 +30,21 @@
 |fr_na|French North African Infantry<br>法国北非步兵<br>||French North African Infantry<br>法国北非步兵<br>|
 |ger_bod|German Bodenständige<br>德军静态师<br>||German Static Infantry<br>德国静态步兵<br>|
 |ger_cav|German Cavalry<br>德国骑兵<br>||German Cavalry<br>德国骑兵<br>|
+|ger_wcav||||
 |ger_fsjg|German Fallschirmjäger<br>德国空降猎兵<br>||German Fallschirmjäger<br>德国空降猎兵<br>|
+|ger_wfsjg||||
 |ger_geb|German Gebirgsjäger<br>德国山地猎兵<br>||German Gebirgsjäger<br>德国山地猎兵<br>|
 |ger_grz|German Grenztruppen<br>德国边防军<br>||German Grenztruppen<br>德国边防军<br>|
 |ger_inf|German Infantry<br>德国步兵<br>||German Infantry<br>德国步兵<br>|
+|ger_winf||||
 |ger_jag|German Jäger<br>德国猎兵<br>||German Jäger<br>德国猎兵<br>|
+|ger_wjag||||
 |ger_lehr|German Training Unit<br>德国训练部队<br>||German Motorized Demonstration Brigade<br>德国机动化教导旅<br>|
 |ger_lei|German Leichte<br>德国轻装步兵师<br>||German Leichte<br>德国轻装步兵<br>|
 |ger_lft|German Luftlande<br>德国空军<br>|DLC1|German Luftlande<br>德国陆军空降兵<br>|
 |ger_lwf|German Luftwaffe<br>德国空军<br>||German Luftwaffe<br>德国空军野战部队<br>|
 |ger_mot|German Motorized<br>德国机动化兵团<br>||German Motorized<br>德国机动化兵团<br>|
+|ger_wmot||||
 |ger_pol|German Police Unit<br>德国警察部队<br>||German Police Unit<br>德国警察部队<br>|
 |ger_pz|German Panzer<br>德国装甲部队<br>||German Panzer<br>德国装甲部队<br>|
 |ger_pz1||||
@@ -47,11 +52,6 @@
 |ger_pzgr|German Panzergrenadier<br>德国装甲掷弹兵<br>||German Panzergrenadier<br>德国装甲掷弹兵<br>|
 |ger_sich|German Security Unit<br>德国警卫队<br>||German Security Unit<br>德国警备部队<br>|
 |ger_vg|German Volksgrenadier<br>德国掷弹兵<br>||German Volksgrenadier<br>德国国民掷弹兵<br>|
-|ger_wcav||||
-|ger_wfsjg||||
-|ger_winf||||
-|ger_wjag||||
-|ger_wmot||||
 |gr_cav|Greek Cavalry<br>希腊骑兵<br>||Greek Cavalry<br>希腊骑兵<br>|
 |gr_inf|Greek Infantry<br>希腊步兵<br>||Greek Infantry<br>希腊步兵<br>|
 |gr_mot|Greek Motorized<br>希腊机动化兵团<br>||Greek Motorized<br>希腊机动化兵团<br>|
@@ -85,38 +85,38 @@
 |sov_ab|Soviet Airborne<br>苏联空降兵<br>||Soviet Airborne<br>苏联空降兵<br>|
 |sov_cav|Soviet Cavalry<br>苏联装甲部队<br>||Soviet Cavalry<br>苏联骑兵<br>|
 |sov_gcav||||
-|sov_ginf||||
-|sov_gmech||||
-|sov_gtank||||
+|sov_wcav||||
 |sov_gwcav||||
-|sov_gwinf||||
-|sov_gwmech||||
-|sov_gwmot||||
-|sov_gwmrd||||
 |sov_inf|Soviet Infantry<br>苏联步兵<br>||Soviet Infantry<br>苏联步兵<br>|
+|sov_ginf||||
+|sov_winf||||
+|sov_gwinf||||
 |sov_mech|Soviet Mechanized<br>苏联机械化部队<br>||Soviet Mechanized<br>苏联机械化部队<br>|
+|sov_gmech||||
+|sov_wmech||||
+|sov_gwmech||||
 |sov_mil|Soviet Militia<br>苏联民兵<br>||Soviet Militia<br>苏联民兵<br>|
 |sov_mot|Soviet Motorized<br>苏联摩托化兵团<br>||Soviet Motorized<br>苏联摩托化兵团<br>|
+|sov_gwmot||||
 |sov_mrd|Soviet Motor Rifles<br>苏联摩托步枪兵<br>||Soviet Motor Rifles<br>苏联摩托步枪兵<br>|
+|sov_wmrd||||
+|sov_gwmrd||||
 |sov_mtn|Soviet Mountaineers<br>苏联山地兵<br>||Soviet Mountaineers<br>苏联山地部队<br>|
 |sov_nvl|Soviet Naval Infantry<br>苏联海军步兵<br>||Soviet Naval Infantry<br>苏联海军步兵<br>|
 |sov_tank|Soviet Tank<br>苏联坦克部队<br>||Soviet Tank<br>苏联坦克部队<br>|
-|sov_wcav||||
-|sov_winf||||
-|sov_wmech||||
-|sov_wmrd||||
+|sov_gtank||||
 |sov_wtank||||
 |spa_inf|Spanish Infantry<br>西班牙步兵<br>||Spanish Infantry<br>西班牙步兵<br>|
 |ss_cav|SS Cavalry<br>党卫军骑兵<br>||SS Cavalry<br>党卫军骑兵<br>|
+|ss_wcav||||
 |ss_geb|SS Gebirgsjäger<br>党卫军山地猎兵<br>||SS Gebirgsjäger<br>党卫军山地猎兵<br|
 |ss_inf|SS Infantry<br>党卫军步兵<br>||SS Infantry<br>党卫军步兵<br>|
-|ss_mot|SS Motorized<br>党卫军机动化兵团<br>||SS Motorized<br>党卫军机动化兵团<br>|
-|ss_pz|SS Panzer<br>党卫军装甲部队<br>||SS Panzer<br>党卫军装甲部队<br>|
-|ss_pzgr|SS Panzergrenadier<br>党卫军装甲掷弹兵师<br>||SS Panzergrenadier<br>党卫军装甲掷弹兵<br>|
-|ss_wcav||||
 |ss_winf||||
+|ss_mot|SS Motorized<br>党卫军机动化兵团<br>||SS Motorized<br>党卫军机动化兵团<br>|
 |ss_wmot||||
+|ss_pz|SS Panzer<br>党卫军装甲部队<br>||SS Panzer<br>党卫军装甲部队<br>|
 |ss_wpz||||
+|ss_pzgr|SS Panzergrenadier<br>党卫军装甲掷弹兵师<br>||SS Panzergrenadier<br>党卫军装甲掷弹兵<br>|
 |ss_wpzgr||||
 |svk_inf|Slovak Infantry<br>斯洛伐克步兵<br>||Slovak Infantry<br>斯洛伐克步兵<br>|
 |svk_mot|Slovak Motorized<br>斯洛伐克机动化兵团<br>||Slovak Motorized<br>斯洛伐克机动化兵团<br>|
