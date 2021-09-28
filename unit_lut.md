@@ -41,25 +41,25 @@
 |ger_lwf|German Luftwaffe<br>德国空军<br>||German Luftwaffe<br>德国空军野战部队<br>|
 |ger_mot|German Motorized<br>德国机动化兵团<br>||German Motorized<br>德国机动化兵团<br>|
 |ger_pol|German Police Unit<br>德国警察部队<br>||German Police Unit<br>德国警察部队<br>|
-|ger_pz||||
+|ger_pz|German Panzer<br>德国装甲部队<br>||German Panzer<br>德国装甲部队<br>|
 |ger_pz1||||
 |ger_pz2||||
-|ger_pzgr|German Panzergrenadier<br>德国装甲掷弹兵<br>||德国国防军陆军装甲掷弹兵|
+|ger_pzgr|German Panzergrenadier<br>德国装甲掷弹兵<br>||German Panzergrenadier<br>德国装甲掷弹兵<br>|
 |ger_sich|German Security Unit<br>德国警卫队<br>|||
-|ger_vg|German Volksgrenadier<br>德国掷弹兵<br>||德国国防军陆军国民掷弹兵|
-|ger_wcav|||
-|ger_wfsjg|||
-|ger_winf|||
-|ger_wjag|||
-|ger_wmot|||
-|gr_cav|||
-|gr_inf|||
-|gr_mot|||
-|hun_arm|||
-|hun_cav|||
-|hun_inf|||
-|hun_mot|||
-|ind_inf|||
+|ger_vg|German Volksgrenadier<br>德国掷弹兵<br>||German Volksgrenadier<br>德国国民掷弹兵<br>|
+|ger_wcav||||
+|ger_wfsjg||||
+|ger_winf||||
+|ger_wjag||||
+|ger_wmot||||
+|gr_cav|Greek Cavalry<br>希腊骑兵<br>||Greek Cavalry<br>希腊骑兵<br>|
+|gr_inf|Greek Infantry<br>希腊步兵<br>||Greek Infantry<br>希腊步兵<br>|
+|gr_mot|Greek Motorized<br>希腊机动化兵团<br>||Greek Motorized<br>希腊机动化兵团<br>|
+|hun_arm|Hungarian Armor<br>匈牙利装甲部队<br>||Hungarian Armor<br>匈牙利装甲部队<br>|
+|hun_cav|Hungarian Cavalry<br>匈牙利骑兵<br>||Hungarian Cavalry<br>匈牙利骑兵<br>|
+|hun_inf|Hungarian Infantry<br>匈牙利步兵<br>||Hungarian Infantry<br>匈牙利步兵<br>|
+|hun_mot|Hungarian Motorized<br>匈牙利机动化兵团<br>||Hungarian Motorized<br>匈牙利机动化兵团<br>|
+|ind_inf|Indian Infantry<br>印度步兵<br>||Indian Infantry<br>印度步兵<br>|
 |ita_allied|Italian Infantry<br>意大利步兵<br>|
 |ita_alp|Italian Alpini<br>意大利山地部队<br>|
 |ita_arm|||
