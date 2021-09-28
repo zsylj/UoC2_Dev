@@ -109,7 +109,7 @@
 |spa_inf|Spanish Infantry<br>西班牙步兵<br>||Spanish Infantry<br>西班牙步兵<br>|
 |ss_cav|SS Cavalry<br>党卫军骑兵<br>||SS Cavalry<br>党卫军骑兵<br>|
 |ss_wcav||||
-|ss_geb|SS Gebirgsjäger<br>党卫军山地猎兵<br>||SS Gebirgsjäger<br>党卫军山地猎兵<br|
+|ss_geb|SS Gebirgsjäger<br>党卫军山地猎兵<br>||SS Gebirgsjäger<br>党卫军山地猎兵<br>|
 |ss_inf|SS Infantry<br>党卫军步兵<br>||SS Infantry<br>党卫军步兵<br>|
 |ss_winf||||
 |ss_mot|SS Motorized<br>党卫军机动化兵团<br>||SS Motorized<br>党卫军机动化兵团<br>|
@@ -131,7 +131,7 @@
 |uk_inf|British Infantry<br>英国步兵<br>||British Infantry<br>英国步兵<br>|
 |us_abn_land|US Airborne<br>美国空降兵<br>||US Airborne<br>美国空降兵<br>|
 |us_arm|US Armored<br>美国装甲部队<br>||US Armored<br>美国装甲部队<br>|
-|us_arm_cc|US Combat Command<br>美国作战司令部<br>||<font color="red">US Armorded Combat Command<br>美国装甲作战指挥<br></font>|
+|us_arm_cc|US Combat Command<br>美国作战司令部<br>||<font color="red">US Combat Command<br>美国旅级战斗队<br></font>|
 |us_inf|US Infantry<br>美国步兵<br>||US Infantry<br>美国步兵<br>|
 |us_mtn|US Mountaineers<br>美军山地兵<br>||<font color="red">US Mountaineers<br>美国山地部队<br></font>|
 |vf_inf|Vichy French Infantry<br>维希法国步兵<br>||Vichy French Infantry<br>维希法国步兵<br>|
