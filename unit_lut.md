@@ -7,17 +7,19 @@
 |bel_cha|Chasseurs Ardennais<br>阿登·查瑟尔营<br>||Belgian Chasseurs Ardennais<br>比利时阿登猎骑兵<br>|
 |bel_inf|Belgian Infantry<br>比利时步兵<br>||Belgian Infantry<br>比利时步兵<br>|
 |bra_inf|Brazilian Infantry<br>巴西步兵<br>||Brazilian Infantry<br>巴西步兵<br>|
-|can_arm||||
-|can_inf||||
-|cro_inf||||
+|bul_cav|Bulgarian Cavalry<br>保加利亚骑兵<br>||Bulgarian Cavalry<br>保加利亚骑兵<br>|
+|bul_inf|Bulgarian Infantry<br>保加利亚步兵<br>||Bulgarian Infantry<br>保加利亚步兵<br>|
+|can_arm|Canadian Armoured<br>加拿大装甲部队<br>||Canadian Armoured<br>加拿大装甲部队<br>|
+|can_inf|Canadian Infantry<br>加拿大步兵<br>||Canadian Infantry<br>加拿大步兵<br>|
+|cro_inf|Croatian Infantry<br>克罗地亚步兵<br>||Croatian Infantry<br>克罗地亚步兵<br>|
 |est_mil|Estonian Militia<br>爱沙尼亚民兵<br>|DLC2/pskov<br>DLC2/leningrad_app<br>|爱沙尼亚地下武装力量？【存疑】<br>乡土卫队omakaitse属于防卫联盟<br>森林兄弟forest brother不属于任何组织<br>|
-|ff_arm||||
-|ff_inf||||
-|ff_mtn|Free French Mountaineers<br>自由法国山地兵<br>||自由法国山地部队|
-|fin_cav||||
-|fin_inf||||
-|fin_jag|Finnish Jäger<br>芬兰猎兵<br>|DLC2/Jatkosota|芬兰猎兵|
-|fr_alp|French Alpine<br>法国山地部队<br>||法国阿尔卑斯猎兵|
+|ff_arm|Free French Armored<br>自由法国装甲部队<br>||Free French Armored<br>自由法国装甲部队<br>|
+|ff_inf|Free French Infantry<br>自由法国步兵<br>||Free French Infantry<br>自由法国步兵<br>|
+|ff_mtn|Free French Mountaineers<br>自由法国山地兵<br>||Free French Mountaineers<br>自由法国山地部队<br>|
+|fin_cav|Finnish Cavalry<br>芬兰骑兵<br>||Finnish Cavalry<br>芬兰骑兵<br>|
+|fin_inf|Finnish Infantry<br>芬兰步兵<br>||Finnish Infantry<br>芬兰步兵<br>|
+|fin_jag|Finnish Jäger<br>芬兰猎兵<br>|DLC2/Jatkosota|Finnish Jäger<br>芬兰猎兵<br>|
+|fr_alp|French Alpine<br>法国山地部队<br>||French Alpine<br>法国阿尔卑斯猎兵<br>|
 |fr_arm||||
 |fr_cav||||
 |fr_col|French Colonial<br>法国殖民军<br>|||
