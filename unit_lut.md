@@ -24,23 +24,23 @@
 |fr_cav|French Cavalry<br>法国骑兵<br>||French Cavalry<br>法国骑兵<br>|
 |fr_col|French Colonial<br>法国殖民军<br>||French Colonial Army<br>法国殖民军<br>|
 |fr_dlm|French Armored (DLM)<br>法国装甲部队（轻装机械师）<br>||French Armored (DLM)<br>法国装甲部队（轻装机械师）<br>|
-|fr_for|French Fortress<br>法国堡垒<br>||法国堡垒守备部队？【存疑】|
-|fr_inf||||
-|fr_mot||||
-|fr_na|French North African Infantry<br>法国北非步兵<br>|||
-|ger_bod|German Bodenständige<br>德军静态师<br>|||
-|ger_cav||||
-|ger_fsjg|German Fallschirmjäger<br>德国空降猎兵<br>||德国国防军空军空降猎兵|
-|ger_geb|German Gebirgsjäger<br>德国山地猎兵<br>||德国国防军陆军山地猎兵|
-|ger_grz|German Grenztruppen<br>德国边防军<br>|||
-|ger_inf||||
-|ger_jag|German Jäger<br>德国猎兵<br>|||
-|ger_lehr|German Training Unit<br>德国训练部队<br>||德国国防军陆军装甲教导部队|
-|ger_lei|German Leichte<br>德国轻装步兵师<br>|||
-|ger_lft|German Luftlande<br>德国空军<br>|DLC1|德国国防军陆军空降兵|
-|ger_lwf|German Luftwaffe<br>德国空军<br>||德国国防军空军野战部队|
-|ger_mot||||
-|ger_pol|German Police Unit<br>德国警察部队<br>|
+|fr_for|French Fortress<br>法国堡垒<br>||French Fortress Infantry<br>法国要塞步兵<br>|
+|fr_inf|French Infantry<br>法国步兵<br>||French Infantry<br>法国步兵<br>|
+|fr_mot|French Motorized<br>法国机动化兵团<br>||French Motorized<br>法国机动化兵团<br>|
+|fr_na|French North African Infantry<br>法国北非步兵<br>||French North African Infantry<br>法国北非步兵<br>|
+|ger_bod|German Bodenständige<br>德军静态师<br>||German Static Infantry<br>德国静态步兵<br>|
+|ger_cav|German Cavalry<br>德国骑兵<br>||German Cavalry<br>德国骑兵<br>|
+|ger_fsjg|German Fallschirmjäger<br>德国空降猎兵<br>||German Fallschirmjäger<br>德国空降猎兵<br>|
+|ger_geb|German Gebirgsjäger<br>德国山地猎兵<br>||German Gebirgsjäger<br>德国山地猎兵<br>|
+|ger_grz|German Grenztruppen<br>德国边防军<br>||German Grenztruppen<br>德国边防军<br>|
+|ger_inf|German Infantry<br>德国步兵<br>||German Infantry<br>德国步兵<br>|
+|ger_jag|German Jäger<br>德国猎兵<br>||German Jäger<br>德国猎兵<br>|
+|ger_lehr|German Training Unit<br>德国训练部队<br>|||German Motorized Demonstration Brigade<br>德国机动化教导旅<br>|
+|ger_lei|German Leichte<br>德国轻装步兵师<br>||German Leichte<br>德国轻装步兵<br>|
+|ger_lft|German Luftlande<br>德国空军<br>|DLC1|German Luftlande<br>德国陆军空降兵<br>|
+|ger_lwf|German Luftwaffe<br>德国空军<br>||German Luftwaffe<br>德国空军野战部队<br>|
+|ger_mot|German Motorized<br>德国机动化兵团<br>||German Motorized<br>德国机动化兵团<br>|
+|ger_pol|German Police Unit<br>德国警察部队<br>||German Police Unit<br>德国警察部队<br>|
 |ger_pz||||
 |ger_pz1||||
 |ger_pz2||||
