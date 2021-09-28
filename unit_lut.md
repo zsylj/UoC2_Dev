@@ -1,12 +1,12 @@
 # Unit Look Up Table
 
-|unit_tag|Full Name<br>全称<br>|Appears in<br>出现于<br>|Better Name<br>最佳名称<br>|
+|unit_tag|Full Name<br>全称<br>|Appears in<br>出现于<br>|Suggest Name<br>建议名称<br>|
 |:----:|:----:|:----|:----:|
-|aus_inf||||
-|bel_cav||||
-|bel_cha|Chasseurs Ardennais<br>阿登·查瑟尔营<br>||比利时阿登猎骑兵|
-|bel_inf||||
-|bra_inf||||
+|aus_inf|Australian Infantry<br>澳大利亚步兵<br>||Australian Infantry<br>澳大利亚步兵<br>|
+|bel_cav|Belgian Cavalry<br>比利时骑兵<br>||Belgian Cavalry<br>比利时骑兵<br>|
+|bel_cha|Chasseurs Ardennais<br>阿登·查瑟尔营<br>||Belgian Chasseurs Ardennais<br>比利时阿登猎骑兵<br>|
+|bel_inf|Belgian Infantry<br>比利时步兵<br>||Belgian Infantry<br>比利时步兵<br>|
+|bra_inf|Brazilian Infantry<br>巴西步兵<br>||Brazilian Infantry<br>巴西步兵<br>|
 |can_arm||||
 |can_inf||||
 |cro_inf||||
