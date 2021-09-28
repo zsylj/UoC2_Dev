@@ -15,15 +15,15 @@
 |est_mil|Estonian Militia<br>爱沙尼亚民兵<br>|DLC2/pskov<br>DLC2/leningrad_app<br>|爱沙尼亚地下武装力量？【存疑】<br>乡土卫队omakaitse属于防卫联盟<br>森林兄弟forest brother不属于任何组织<br>|
 |ff_arm|Free French Armored<br>自由法国装甲部队<br>||Free French Armored<br>自由法国装甲部队<br>|
 |ff_inf|Free French Infantry<br>自由法国步兵<br>||Free French Infantry<br>自由法国步兵<br>|
-|ff_mtn|Free French Mountaineers<br>自由法国山地兵<br>||Free French Chasseurs Alpins<br>自由阿尔卑斯猎兵<br>|
+|ff_mtn|Free French Mountaineers<br>自由法国山地兵<br>||Free French Chasseurs Alpins<br>自由法国阿尔卑斯猎兵<br>|
 |fin_cav|Finnish Cavalry<br>芬兰骑兵<br>||Finnish Cavalry<br>芬兰骑兵<br>|
 |fin_inf|Finnish Infantry<br>芬兰步兵<br>||Finnish Infantry<br>芬兰步兵<br>|
 |fin_jag|Finnish Jäger<br>芬兰猎兵<br>|DLC2/Jatkosota|Finnish Jäger<br>芬兰猎兵<br>|
 |fr_alp|French Alpine<br>法国山地部队<br>||French Chasseurs Alpins<br>法国阿尔卑斯猎兵<br>|
-|fr_arm||||
-|fr_cav||||
-|fr_col|French Colonial<br>法国殖民军<br>|||
-|fr_dlm|French Armored (DLM)<br>法国装甲部队（轻装机械师）<br>|
+|fr_arm|French Armored<br>法国装甲部队<br>||French Armored<br>法国装甲部队<br>|
+|fr_cav|French Cavalry<br>法国骑兵<br>||French Cavalry<br>法国骑兵<br>|
+|fr_col|French Colonial<br>法国殖民军<br>||French Colonial Army<br>法国殖民军<br>|
+|fr_dlm|French Armored (DLM)<br>法国装甲部队（轻装机械师）<br>||French Armored (DLM)<br>法国装甲部队（轻装机械师）<br>|
 |fr_for|French Fortress<br>法国堡垒<br>||法国堡垒守备部队？【存疑】|
 |fr_inf||||
 |fr_mot||||
