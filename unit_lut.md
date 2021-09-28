@@ -35,7 +35,7 @@
 |ger_grz|German Grenztruppen<br>德国边防军<br>||German Grenztruppen<br>德国边防军<br>|
 |ger_inf|German Infantry<br>德国步兵<br>||German Infantry<br>德国步兵<br>|
 |ger_jag|German Jäger<br>德国猎兵<br>||German Jäger<br>德国猎兵<br>|
-|ger_lehr|German Training Unit<br>德国训练部队<br>|||German Motorized Demonstration Brigade<br>德国机动化教导旅<br>|
+|ger_lehr|German Training Unit<br>德国训练部队<br>||German Motorized Demonstration Brigade<br>德国机动化教导旅<br>|
 |ger_lei|German Leichte<br>德国轻装步兵师<br>||German Leichte<br>德国轻装步兵<br>|
 |ger_lft|German Luftlande<br>德国空军<br>|DLC1|German Luftlande<br>德国陆军空降兵<br>|
 |ger_lwf|German Luftwaffe<br>德国空军<br>||German Luftwaffe<br>德国空军野战部队<br>|
