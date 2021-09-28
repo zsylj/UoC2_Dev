@@ -1,6 +1,6 @@
 # Unit Look Up Table
 
-|unit_tag|Full Name<br>全称<br>|Appears in<br>出现于<br>|Suggest Name<br>建议名称<br>|
+|Unit Tag<br>单位标签<br>|Full Name<br>全称<br>|Appears in<br>出现于<br>|Suggest Name<br>建议名称<br>|
 |:----:|:----:|:----|:----:|
 |aus_inf|Australian Infantry<br>澳大利亚步兵<br>||Australian Infantry<br>澳大利亚步兵<br>|
 |bel_cav|Belgian Cavalry<br>比利时骑兵<br>||Belgian Cavalry<br>比利时骑兵<br>|
