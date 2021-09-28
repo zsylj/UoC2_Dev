@@ -45,7 +45,7 @@
 |ger_pz1||||
 |ger_pz2||||
 |ger_pzgr|German Panzergrenadier<br>德国装甲掷弹兵<br>||German Panzergrenadier<br>德国装甲掷弹兵<br>|
-|ger_sich|German Security Unit<br>德国警卫队<br>|||
+|ger_sich|German Security Unit<br>德国警卫队<br>||German Security Unit<br>德国警备部队<br>|
 |ger_vg|German Volksgrenadier<br>德国掷弹兵<br>||German Volksgrenadier<br>德国国民掷弹兵<br>|
 |ger_wcav||||
 |ger_wfsjg||||
