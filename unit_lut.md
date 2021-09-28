@@ -12,7 +12,7 @@
 |can_arm|Canadian Armoured<br>加拿大装甲部队<br>||Canadian Armoured<br>加拿大装甲部队<br>|
 |can_inf|Canadian Infantry<br>加拿大步兵<br>||Canadian Infantry<br>加拿大步兵<br>|
 |cro_inf|Croatian Infantry<br>克罗地亚步兵<br>||Croatian Infantry<br>克罗地亚步兵<br>|
-|est_mil|Estonian Militia<br>爱沙尼亚民兵<br>|DLC2/pskov<br>DLC2/leningrad_app<br>|爱沙尼亚地下武装力量？【存疑】<br>乡土卫队omakaitse属于防卫联盟<br>森林兄弟forest brother不属于任何组织<br>|
+|est_mil|Estonian Militia<br>爱沙尼亚民兵<br>|DLC2/pskov<br>DLC2/leningrad_app<br>|Estonian Partisans<br>爱沙尼亚游击队<br>|
 |ff_arm|Free French Armored<br>自由法国装甲部队<br>||Free French Armored<br>自由法国装甲部队<br>|
 |ff_inf|Free French Infantry<br>自由法国步兵<br>||Free French Infantry<br>自由法国步兵<br>|
 |ff_mtn|Free French Mountaineers<br>自由法国山地兵<br>||Free French Chasseurs Alpins<br>自由法国阿尔卑斯猎兵<br>|
