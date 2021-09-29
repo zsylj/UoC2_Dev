@@ -3,7 +3,7 @@
 |Prefix<br>前缀<br>|Name Origin<br>名称来源<br>|Official Name<br>官方称谓<br>|Chinese|
 |:----:|:----:|:----:|:----:|
 |aus|Australia|EN: Commonwealth of Australia<br>ZH: 澳大利亚联邦<br>|澳大利亚联邦|
-|bel|Belgium|NL: Koninkrijk België<br>FR: Royaume de Belgique<br>DE: Königreich Belgien<br>ZH: Kingdom of Belgium<br>ZH: 比利时王国<br>|比利时王国|
+|bel|Belgium|NL: Koninkrijk België<br>FR: Royaume de Belgique<br>DE: Königreich Belgien<br>EN: Kingdom of Belgium<br>ZH: 比利时王国<br>|比利时王国|
 |bra|Brazil|PT: República Federativa do Brasil<br>ZH: 巴西联邦共和国<br>|巴西联邦共和国|
 |can|Canada|EN: Dominion of Canada<br>FR: Domination du Canada<br>ZH: 加拿大自治领<br>|加拿大自治领|
 |cro|Croatia|HR: Nezavisna Država Hrvatska<br>ZH: 克罗地亚独立国<br>|克罗地亚独立国|
