@@ -1,6 +1,6 @@
 # Country Look Up Table
 
-|Brief Prefix|Country Name|Official Country Name|Chinese|
+|Prefix<br>前缀<br>|Name Origin<br>名称来源<br>|Official Name<br>官方称谓<br>|Chinese|
 |:----:|:----:|:----:|:----:|
 |aus|Australia|Commonwealth of Australia|澳大利亚联邦|
 |bel|Belgium|Koninkrijk België|比利时王国|
@@ -17,7 +17,7 @@
 |ind|India|British Raj|英属印度|
 |ita|Italy|Regno d'Italia|意大利王国|
 |nl|Netherlands|Koninkrijk der Nederlanden|荷兰王国|
-|nr/nor|Norway|Kongeriket Norge|挪威王国|
+|nor|Norway|Kongeriket Norge|挪威王国|
 |nz|New Zealand|Dominion of New Zealand|新西兰自治领|
 |pol|Poland|II Rzeczpospolita|波兰第二共和国|
 |rom|Romania|Regatul României|罗马尼亚王国|
@@ -28,7 +28,7 @@
 |ss|Schutzstaffel|Schutzstaffel|党卫军|
 |svk|Slovakia|Slovenská republika|斯洛伐克共和国|
 |swe|Sweden|Konungariket Sverige|瑞典王国|
-|sws|Swiss/Switzerland|Confœderatio Helvetica|瑞士联邦|
+|sws|Swiss|Confœderatio Helvetica|瑞士联邦|
 |uk|United Kingdom|The United Kingdom of Great Britain and Northern Ireland|大不列颠及北爱尔兰联合王国|
 |us|United States|The United States of America|美利坚合众国|
 |vf/vichy|Vichy France|État français|维希法国|
